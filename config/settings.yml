@@ -1,0 +1,5 @@
+facebook:
+  access_token: <%= ENV["FB_ACCESS_TOKEN"] %>
+  app_access_token: <%= ENV["FB_APP_ACCESS_TOKEN"] %>
+  app_id: <%= ENV["FB_APP_ID"] %>
+  app_secret: <%= ENV["FB_APP_SECRET"] %>
