@@ -26,6 +26,9 @@ gem "bcrypt", "~> 3.1.7"
 # lint
 gem "onkcop", require: false
 
+# web api
+gem "koala"
+
 # etc
 gem "config"
 
