@@ -1,3 +1,4 @@
-# geekhouse-manager
+# 誕生日オートメーション
+
 
 [メモ wiki](../../wiki/メモ)
